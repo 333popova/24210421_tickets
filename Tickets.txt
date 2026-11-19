@@ -1,0 +1,1 @@
+Student=Alice;T104; network; Wi-Fi disconnects repeatedly;T107; software; IDE will not start
